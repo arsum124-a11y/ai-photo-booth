@@ -1,5 +1,6 @@
 streamlit
-rembg
-opencv-python-headless
+rembg[cpu]
 Pillow
 requests
+torch
+torchvision
