@@ -1,0 +1,4 @@
+streamlit
+rembg
+opencv-python-headless
+Pillow
